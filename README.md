@@ -5,6 +5,6 @@ The dataset is from the U.S. Small Business Administration (SBA) The U.S. SBA wa
 
 There have been many success stories of start-ups receiving SBA loan guarantees such as FedEx and Apple Computer. However, there have also been stories of small businesses or start-ups that have defaulted on their SBA guaranteed loans. \n Small business owners often seek out SBA (Small Business Association) loans because they guarantee part of the loan. Without going into too much detail, this basically means that the SBA will cover some of the losses should the business default on the loan, which lowers the risk involved for the business owner(s). This increases the risk to the SBA however, which can sometimes make it difficult to get accepted for one of their loan programs.
 
-This project is end to end data science projcet (kinda), from Data Preparation, Modeling, Evaluating, Tunning until Deployment. If you want to see simple app about this project, click this link below:
+This project is end to end data science projcet (kinda), from Data Preparation, Modeling, Evaluating, till Deployment. 
 
 
